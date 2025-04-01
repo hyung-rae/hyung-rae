@@ -1,4 +1,6 @@
 - name: Home
-  link: /hyung-rae
+  link: /
 - name: About
-  link: /hyung-rae/about.html
+  link: /about.html
+- name: Blog
+  link: /blog.html
