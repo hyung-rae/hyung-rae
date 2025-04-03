@@ -5,4 +5,4 @@
 - [ ] type script 스터디
 - [ ] 정보처리 기사
 
-[개발 블로그]: https://hyung-rae.github.io/front-development/
+[개발 노트]: https://hyung-rae.github.io/front-development/
